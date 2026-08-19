@@ -1,35 +1,39 @@
- #  Test-Profile
-<img width="1000" height="420" alt="hello world2" src="https://github.com/user-attachments/assets/f876883a-5ced-4dab-a782-88f13fef97af" />
+```md
+## About Me
 
-Welcome to my first GitHub project! 👋
+Hello! 👋
 
-This repository is a place where I practice web development and learn how to use GitHub.
+My name is [Hamza].
 
-## About this project
+I am a beginner developer.
 
-I am learning how to:
+This is one of my first projects on GitHub.
 
-- Create and edit files
-- Save changes with commits
-- Use branches
-- Open Issues
-- Add labels
-- Work with GitHub Wiki
-- Upload images and write documentation
+I created this repository to learn how GitHub works.
 
-> Every small change is part of my learning journey.
+I am learning how to create files.
 
-## Technologies
+I am learning how to edit code.
 
-| Technology | Purpose |
-| --- | --- |
-| HTML | Building the page structure |
-| CSS | Styling the page |
-| JavaScript | Adding interaction |
-| Git & GitHub | Saving and managing project changes |
+I am learning how to save changes with commits.
 
-## Example code
+I am learning how to use Git and GitHub.
 
-```html
-<h1>Hello, GitHub!</h1>
-<p>This is my first project.</p>
+I am also interested in web development.
+
+Currently, I am learning HTML.
+
+I am learning CSS.
+
+I am learning JavaScript.
+
+My goal is to improve my skills step by step.
+
+I want to build websites and useful projects in the future.
+
+This repository is part of my learning journey.
+
+I will continue updating it as I learn new things.
+
+Thank you for visiting my project! 🚀
+```
